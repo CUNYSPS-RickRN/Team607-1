@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Meetup_Collab_Overview
 ========================================================
 author: Jered Ataky,  Dan Rosenfeld,  Magnus Skonberg, &  Rick Sughrue(RickRN)
