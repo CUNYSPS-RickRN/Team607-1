@@ -22,16 +22,6 @@ Process
 - Screen sharing especially for RStudio code essential
 - Incremental coding/refining coding
 
-Continuous Improvement - Next steps
-========================================================
-- [How to] use Version Control System (VCS)
-- Install Git / Configuration w/GitHub
-- GitHub: Create new project then link in RStudio
-- [Click here](https://raw.githubusercontent.com/CUNYSPS-RickRN/Team607-1/master/Screenshot%20RStudio.jpg) to screen shot
-- Notice: Upper right - new Git TAB, lower right - FILES tab local
-
-- Yes .... more trial/error configuring GitHub for PUSH/PULL features
-
 
 Magnus Challenge!
 ========================================================
@@ -199,5 +189,5 @@ summary(cars)
 Slide With Plot
 ========================================================
 
-![plot of chunk unnamed-chunk-3](Meetup_Collab_Overview-figure/unnamed-chunk-3-1.png)
+![plot of chunk unnamed-chunk-6](Meetup_Collab_Overview-figure/unnamed-chunk-6-1.png)
 >>>>>>> eb2caba07288be57b8efbf699821e2e529a6d175
